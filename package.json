@@ -1,0 +1,34 @@
+{
+  "name": "react-clean-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovmf/react-clean-architecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovmf/react-clean-architecture/issues"
+  },
+  "homepage": "https://github.com/joaovmf/react-clean-architecture#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.6.1",
+    "@typescript-eslint/eslint-plugin": "^2.31.0",
+    "eslint": "^6.8.0",
+    "eslint-config-standard-with-typescript": "^11.0.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.4",
+    "typescript": "^4.3.5"
+  }
+}
